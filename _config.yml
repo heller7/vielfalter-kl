@@ -4,7 +4,7 @@ description: "Vielfalter-KL e.V."
 permalink: /:title/
 lang: "de"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: "%d %B %Y"
 
 # Layout
 
