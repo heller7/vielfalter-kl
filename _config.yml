@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "news.html", title: "News", icon: newspaper}
   - {file: "archive.html", title: "Archiv", icon: archive}
   - {file: "about.html", title: "Über uns", icon: users}
-  - {file: "contact.html", title: "Kontakt", icon: adress-card}
+  - {file: "contact.html", title: "Kontakt", icon: address-card}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
