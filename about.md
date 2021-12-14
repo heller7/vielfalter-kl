@@ -21,6 +21,8 @@ Wir möchten auch weiterhin einen Anlaufpunkt schaffen, der den Menschen mit all
 
 Um die Weiterführung des interkulturellen Cafés zu ermöglichen sind wir auf weitere Unterstützung angewiesen. 
 
-Mit einer einmaligen oder regelmäßigen Spende, kannst Du uns konkret dabei unterstützen unser soziales Engagement in Kaiserslautern weiterzuführen. Um uns zu unterstützen, klicke hier: https://www.betterplace.org/de/projects/74045-unterstuetzt-das-interkulturelle-cafe-des-vielfalter-kl-e-v
+Mit einer einmaligen oder regelmäßigen Spende, kannst Du uns konkret dabei unterstützen unser soziales Engagement in Kaiserslautern weiterzuführen. Um uns zu unterstützen, klicke hier: 
+<a href="https://www.betterplace.org/de/projects/74045-unterstuetzt-das-interkulturelle-cafe-des-vielfalter-kl-e-v">Spendenaufruf auf Betterplace.org</a>
+
 
 Vielen Dank!
