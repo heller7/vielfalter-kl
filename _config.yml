@@ -16,11 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "home.md", icon: home}
-  - {file: "news.html", title: "News", icon: news, sidebaricon: letter}
-  - {file: "archive.html", title: "Archiv", icon: news, sidebaricon: home}
-  - {file: "about.html", title: "Über uns"}
-  - {file: "contact.html", title: "Kontakt", icon: contact, sidebaricon: contact}
+  - {file: "home.md", title: "Home", icon: home}
+  - {file: "news.html", title: "News", icon: newspaper}
+  - {file: "archive.html", title: "Archiv", icon: archive}
+  - {file: "about.html", title: "Über uns", icon: users}
+  - {file: "contact.html", title: "Kontakt", icon: adress-card}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
