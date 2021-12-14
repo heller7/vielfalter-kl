@@ -19,8 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.md", title: "Home", icon: home}
   - {file: "news.html", title: "News", icon: newspaper}
   - {file: "archive.html", title: "Archiv", icon: archive}
-  - {file: "about.html", title: "Über uns", icon: users}
-  - {file: "contact.html", title: "Kontakt", icon: address-card}
+  - {file: "about.md", title: "Über uns", icon: users}
+  - {file: "contact.md", title: "Kontakt", icon: address-card}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
