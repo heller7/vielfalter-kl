@@ -1,5 +1,5 @@
 ---
-title:  ""
+title:  "Kontakt"
 layout: post
 ---
 
